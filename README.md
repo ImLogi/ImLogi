@@ -5,7 +5,11 @@
 
 ###
 
-## Contact
+## About Me
+
+I'm cybersec student @ Warsaw/Poland. Love learning new things. Currently trying to get first internship in SOC L1, in meantime working on [automated cybernews fetcher](https://github.com/ImLogi/docker-n8n-cybernews).
+
+## Profiles
 
 <div align="left">
   <a href="www.linkedin.com/in/paweł-grabowski-cs" target="_blank">
