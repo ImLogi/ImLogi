@@ -37,6 +37,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ImLogi/ImLogi/output/snake.svg" alt="Snake animation" />
-
-###
