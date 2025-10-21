@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm cybersec student @ Warsaw/Poland. Love learning new things. Currently trying to get first internship in SOC L1, in meantime working on [automated cybernews fetcher](https://github.com/ImLogi/docker-n8n-cybernews).
+I'm cybersec student @ Military University of Technologies, Warsaw/Poland. Love learning new things. Currently trying to get first internship in SOC L1, in meantime working on [automated cybernews fetcher](https://github.com/ImLogi/docker-n8n-cybernews).
 
 ## Profiles
 
